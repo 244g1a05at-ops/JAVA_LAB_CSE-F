@@ -1,0 +1,26 @@
+## Experiment1
+# TITLE 1a) Display the primitive datatypes
+...
+public class Exp{
+ static byte b;
+ static short s;
+static int a;
+static long l;
+static float f;
+static double d;
+static char c;
+static boolean e;
+public static void main(String[] args){
+System.out.println("Default byte value :"+b);
+System.out.println("Default short value :"+s);
+System.out.println("Default int value :"+a);
+System.out.println("Default long value :"+l);
+System.out.println("Default float value :"+f);
+System.out.println("Default double value :"+d);
+System.out.println("Default char value :"+ c);
+System.out.println("Default boolean value :"+e);
+}
+}
+...
+# output
+![output_of_primitive_datatypes](exp1a.JPEG)
