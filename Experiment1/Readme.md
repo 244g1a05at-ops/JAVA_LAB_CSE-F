@@ -23,4 +23,4 @@ System.out.println("Default boolean value :"+e);
 }
 ...
 # output
-![output_of_primitive_datatypes](exp1a.JPEG)
+![output_of_primitive_datatypes](expp1a.JPEG)
