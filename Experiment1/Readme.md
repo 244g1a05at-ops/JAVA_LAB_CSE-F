@@ -23,5 +23,6 @@ System.out.println("Default boolean value :"+e);
 }
 ```
 # output
-![Uploading 1a.output.png…]()
+<img width="182" height="88" alt="1a output" src="https://github.com/user-attachments/assets/4ca88ae4-f9ad-4cb7-ba9f-7d288587c0a5" />
+
 
