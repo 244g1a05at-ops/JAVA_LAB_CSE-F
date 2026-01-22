@@ -1,9 +1,6 @@
 # EXPERIMENT2
 ## TITLE:2a.)implement class mechanism in java
 ```
-#experiment2
-## TITLE: 2a.) Implement class mechanism in java 
-```
 class myclass {
 void displaymessage() {
 System.out.println("welcome to java");
@@ -20,7 +17,7 @@ System.out.println("sum: " + result);
 }
 ```
 # OUTPUT
-![2a output](https://github.com/user-attachments/assets/c5a07a4f-7b4d-4ac5-b4ed-cfa3a5ab4cb2)
+![output_of_class mechanism](exp2a.jpeg)
 
 ## TITLE: 2b.) java program implement method overloading
 ```
@@ -46,7 +43,7 @@ System.out.println("Result of adding three integers: " + sum3);
 }
 ```
 # OUTPUT
-![2b output](https://github.com/user-attachments/assets/202910bb-3ffd-482f-b7e7-19d44fefa78b)
+![2b output](exp2b.jpeg)
 
 ## TITLE: 2c.) java program implement constructor
 ```
@@ -71,4 +68,4 @@ S1.display ( );
 }
 ```
 # OUTPUT
-![2c output](https://github.com/user-attachments/assets/acb9b1e3-416c-403d-9fc5-247c2ebe0c99)
+![2c output](exp2c.jpeg)
