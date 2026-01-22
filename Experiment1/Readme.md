@@ -1,6 +1,6 @@
 ## Experiment1
 # TITLE 1a) Display the primitive datatypes
-...
+```
 public class Exp{
  static byte b;
  static short s;
@@ -21,6 +21,7 @@ System.out.println("Default char value :"+ c);
 System.out.println("Default boolean value :"+e);
 }
 }
-...
+```
 # output
-![output_of_primitive_datatypes](expp1a.JPEG)
+![Uploading 1a.output.png…]()
+
